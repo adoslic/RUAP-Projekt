@@ -1,0 +1,16 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\bin\Debug\r1.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\bin\Debug\r1.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\bin\Debug\r1.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\obj\Debug\r1.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\obj\Debug\r1.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\obj\Debug\r1.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\obj\Debug\r1.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\obj\Debug\r1.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\obj\Debug\r1.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\bin\Debug\Newtonsoft.Json.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\bin\Debug\Newtonsoft.Json.xml
+c:\users\korisnik\documents\visual studio 2015\Projects\r1\r1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Korisnik\Desktop\RUAP-projekt\r1\r1\bin\Debug\r1.exe.config
+C:\Users\Korisnik\Desktop\RUAP-projekt\r1\r1\obj\Debug\r1.exe
+C:\Users\Korisnik\Desktop\RUAP-projekt\r1\r1\obj\Debug\r1.pdb
